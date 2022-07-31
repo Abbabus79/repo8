@@ -1,5 +1,2 @@
-line
-line
-line
-line
-;ime
+line 1
+line 2d

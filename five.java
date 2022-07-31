@@ -1,8 +1,4 @@
-line
-line
-line
-line
-;ime
-lin
-line
-fuiofj
+line 1
+line 2d
+line3
+libedd
